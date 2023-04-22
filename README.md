@@ -1,3 +1,3 @@
-# sass-proje
+# scss-proje
 ## HTML, SCSS kullanılarak oluşturuldu.
 ![](screenn.gif)
